@@ -1,0 +1,43 @@
+{
+  "site": "S9 Fix Diagnostics",
+  "date": "2026-06-14",
+  "items": [
+    {
+      "title": "Daily freshness guide added 2026-06-14",
+      "date": "2026-06-14",
+      "pages": [
+        "blog/app-stuck-loading-after-otp"
+      ]
+    },
+    {
+      "title": "Account wallet support cluster added",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/server-error-during-login",
+        "blog/blank-screen-after-register"
+      ]
+    },
+    {
+      "title": "Register/login cluster added",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/register-button-not-responding",
+        "blog/login-error-after-update",
+        "blog/app-crash-during-registration"
+      ]
+    },
+    {
+      "title": "Long-tail content sprint published",
+      "date": "2026-06-13",
+      "pages": [
+        "blog/app-not-working-after-update",
+        "blog/network-error-on-mobile-data",
+        "blog/install-failed-vs-login-error"
+      ]
+    },
+    {
+      "title": "V4 independent design generated",
+      "date": "2026-06-12"
+    }
+  ]
+}

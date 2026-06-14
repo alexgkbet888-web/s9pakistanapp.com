@@ -1,0 +1,14 @@
+{
+  "name": "S9 Fix Diagnostics",
+  "short_name": "S9 Fix Diagnostics",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
