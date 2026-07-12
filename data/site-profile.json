@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "s9pakistanapp.com",
+  "brand": "S9 App Fix Desk",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "S9-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://s9pakistanapp.com/",
+  "siteType": "authority",
+  "positioning": "S9 app not working, crash, network and Android troubleshooting authority for Pakistan users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "s9 app not working",
+    "s9 app Pakistan"
+  ],
+  "secondaryKeywords": [
+    "s9 app black screen Android",
+    "s9 app permission denied",
+    "s9 app crash low storage"
+  ],
+  "technical": {
+    "sitemapUrl": "https://s9pakistanapp.com/sitemap.xml",
+    "robotsUrl": "https://s9pakistanapp.com/robots.txt",
+    "feedUrl": "https://s9pakistanapp.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:s9pakistanapp.com",
+    "connected": false
+  }
+}
