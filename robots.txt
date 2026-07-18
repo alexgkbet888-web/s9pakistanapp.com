@@ -1,31 +1,13 @@
-﻿User-agent: *
+User-agent: *
 Allow: /
-
 Sitemap: https://s9pakistanapp.com/sitemap.xml
 
 User-agent: *
-
-
 User-agent: *
-
-
 User-agent: *
-
-
 User-agent: *
-
-
 User-agent: *
-
-
 User-agent: *
-
-
 User-agent: *
-
-
 User-agent: *
-
-
 User-agent: *
-
