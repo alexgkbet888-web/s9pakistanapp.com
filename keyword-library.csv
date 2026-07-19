@@ -1,81 +1,81 @@
-id,keyword,intent,priority,page_type,target_page,last_modified,source
-1,s9 app not working,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
-2,s9 app Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
-3,s9 app black screen Android,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-4,s9 app permission denied,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-5,s9 app crash low storage,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
-6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
-7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
-8,S9 App Fix Desk support,brand,P2,support,/support/,2026-06-28,sop-full-audit
-9,S9 App Fix Desk FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
-10,s9 app not working Pakistan,category,P1,hub/category,/app-not-working/,2026-06-28,sop-full-audit
-11,s9 black screen Pakistan,category,P1,hub/category,/black-screen/,2026-06-28,sop-full-audit
-12,s9 permission denied Pakistan,category,P1,hub/category,/permission-denied/,2026-06-28,sop-full-audit
-13,s9 app crash Pakistan,category,P1,hub/category,/app-crash/,2026-06-28,sop-full-audit
-14,s9 network error Pakistan,category,P1,hub/category,/network-error/,2026-06-28,sop-full-audit
-15,why s9 app not working in Pakistan,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-16,how to fix s9 app black screen,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-17,why s9 app permission denied,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-18,what to do if s9 app crashes,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-19,how to fix s9 network error after login,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
-20,s9 app error vs login error,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-21,s9 app crash vs network error,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-22,s9 app not opening vs download failed,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
-23,s9 app not working PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-24,s9 app not working Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-25,s9 app not working mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-26,s9 app not working H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-27,s9 app not working 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-28,s9 app not working guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-29,s9 app not working checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-30,s9 app not working fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-31,s9 app not working not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-32,s9 app not working latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-33,s9 app not working support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-34,s9 app Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-35,s9 app Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-36,s9 app Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-37,s9 app Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-38,s9 app Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-39,s9 app Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-40,s9 app Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-41,s9 app Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-42,s9 app Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-43,s9 app Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-44,s9 app Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-45,s9 app Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-46,s9 app black screen Android Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-47,s9 app black screen Android PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-48,s9 app black screen Android Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-49,s9 app black screen Android mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-50,s9 app black screen Android H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-51,s9 app black screen Android 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-52,s9 app black screen Android guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-53,s9 app black screen Android checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-54,s9 app black screen Android fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-55,s9 app black screen Android not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-56,s9 app black screen Android latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-57,s9 app black screen Android support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-58,s9 app permission denied Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-59,s9 app permission denied PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-60,s9 app permission denied Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-61,s9 app permission denied mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-62,s9 app permission denied H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-63,s9 app permission denied 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-64,s9 app permission denied guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-65,s9 app permission denied checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-66,s9 app permission denied fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-67,s9 app permission denied not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-68,s9 app permission denied latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-69,s9 app permission denied support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-70,s9 app crash low storage Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-71,s9 app crash low storage PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-72,s9 app crash low storage Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-73,s9 app crash low storage mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-74,s9 app crash low storage H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-75,s9 app crash low storage 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
-76,s9 app crash low storage guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-77,s9 app crash low storage checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-78,s9 app crash low storage fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-79,s9 app crash low storage not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
-80,s9 app crash low storage latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+"id","keyword","intent","priority","page_type","target_page","last_modified","source"
+"1","s9 app not working","core","P1","homepage/pillar","/","2026-06-28","sop-full-audit"
+"2","s9 app Pakistan","core","P1","homepage/pillar","/","2026-06-28","sop-full-audit"
+"3","s9 app black screen Android","long-tail","P1","supporting article","/blog/s9-app-black-screen-android-2026-06-26/","2026-07-19","professional-keyword-framework-audit"
+"4","s9 app permission denied","long-tail","P1","supporting article","/blog/s9-app-permission-denied-2026-06-25/","2026-07-19","professional-keyword-framework-audit"
+"5","s9 app crash low storage","long-tail","P1","supporting article","/blog/s9-app-crash-low-storage-2026-06-24/","2026-07-19","professional-keyword-framework-audit"
+"6","s9 Pakistan","brand","P1","homepage","/","2026-06-28","sop-full-audit"
+"7","s9 game Pakistan","brand","P1","homepage","/","2026-06-28","sop-full-audit"
+"8","S9 App Fix Desk support","brand","P2","support","/support/","2026-06-28","sop-full-audit"
+"9","S9 App Fix Desk FAQ","brand","P2","faq","/faq/","2026-06-28","sop-full-audit"
+"10","s9 app not working Pakistan","category","P1","hub/category","/blog/app-not-working-after-update/","2026-07-19","professional-keyword-framework-audit"
+"11","s9 black screen Pakistan","category","P1","hub/category","/blog/s9-app-black-screen-android-2026-06-26/","2026-07-19","professional-keyword-framework-audit"
+"12","s9 permission denied Pakistan","category","P1","hub/category","/blog/s9-app-permission-denied-2026-06-25/","2026-07-19","professional-keyword-framework-audit"
+"13","s9 app crash Pakistan","category","P1","hub/category","/blog/app-crash-during-registration/","2026-07-19","professional-keyword-framework-audit"
+"14","s9 network error Pakistan","category","P1","hub/category","/blog/network-error-after-register/","2026-07-19","professional-keyword-framework-audit"
+"15","why s9 app not working in Pakistan","question","P1","faq/article","/blog/app-not-working-after-update/","2026-07-19","professional-keyword-framework-audit"
+"16","how to fix s9 app black screen","question","P1","faq/article","/blog/s9-app-black-screen-android-2026-06-29/","2026-07-19","professional-keyword-framework-audit"
+"17","why s9 app permission denied","question","P1","faq/article","/blog/s9-app-permission-denied-2026-06-25/","2026-07-19","professional-keyword-framework-audit"
+"18","what to do if s9 app crashes","question","P1","faq/article","/blog/app-crash-during-registration/","2026-07-19","professional-keyword-framework-audit"
+"19","how to fix s9 network error after login","question","P1","faq/article","/blog/s9-network-error-after-login-2026-06-23/","2026-07-19","professional-keyword-framework-audit"
+"20","s9 app error vs login error","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"21","s9 app crash vs network error","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"22","s9 app not opening vs download failed","comparison","P2","comparison/article","/blog/","2026-06-28","sop-full-audit"
+"23","s9 app not working PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"24","s9 app not working Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"25","s9 app not working mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"26","s9 app not working H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"27","s9 app not working 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"28","s9 app not working guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"29","s9 app not working checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"30","s9 app not working fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"31","s9 app not working not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"32","s9 app not working latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"33","s9 app not working support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"34","s9 app Pakistan Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"35","s9 app Pakistan PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"36","s9 app Pakistan Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"37","s9 app Pakistan mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"38","s9 app Pakistan H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"39","s9 app Pakistan 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"40","s9 app Pakistan guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"41","s9 app Pakistan checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"42","s9 app Pakistan fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"43","s9 app Pakistan not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"44","s9 app Pakistan latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"45","s9 app Pakistan support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"46","s9 app black screen Android Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"47","s9 app black screen Android PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"48","s9 app black screen Android Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"49","s9 app black screen Android mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"50","s9 app black screen Android H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"51","s9 app black screen Android 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"52","s9 app black screen Android guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"53","s9 app black screen Android checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"54","s9 app black screen Android fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"55","s9 app black screen Android not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"56","s9 app black screen Android latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"57","s9 app black screen Android support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"58","s9 app permission denied Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"59","s9 app permission denied PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"60","s9 app permission denied Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"61","s9 app permission denied mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"62","s9 app permission denied H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"63","s9 app permission denied 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"64","s9 app permission denied guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"65","s9 app permission denied checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"66","s9 app permission denied fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"67","s9 app permission denied not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"68","s9 app permission denied latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"69","s9 app permission denied support","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"70","s9 app crash low storage Pakistan","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"71","s9 app crash low storage PK","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"72","s9 app crash low storage Android","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"73","s9 app crash low storage mobile","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"74","s9 app crash low storage H5","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"75","s9 app crash low storage 2026","regional/local","P2","article","/blog/","2026-06-28","sop-full-audit"
+"76","s9 app crash low storage guide","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"77","s9 app crash low storage checklist","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"78","s9 app crash low storage fix","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"79","s9 app crash low storage not working","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
+"80","s9 app crash low storage latest update","tutorial/problem","P2","article","/blog/","2026-06-28","sop-full-audit"
