@@ -1,143 +1,149 @@
-﻿{
-    "site":  "S9 Fix Diagnostics",
-    "date":  "2026-07-12",
-    "items":  [
-                  {
-                      "title":  "Crash and network fix guide | S9 Fix Diagnostics",
-                      "date":  "2026-07-12",
-                      "url":  "https://s9pakistanapp.com/updates/week-14-crash-network-install-runbook/",
-                      "keyword":  "s9 game not working crash network",
-                      "search_intent":  "Weekly freshness and troubleshooting update"
-                  },
-                  {
-                      "title":  "S9 network error mobile data and WiFi fix Pakistan",
-                      "date":  "2026-07-11",
-                      "url":  "https://s9pakistanapp.com/blog/s9-network-error-mobile-data-wifi-fix-2026-07-11/",
-                      "keyword":  "s9 game not working",
-                      "intent":  "s9-game-app-fix-guide"
-                  },
-                  {
-                      "title":  "S9 network error mobile data and WiFi fix Pakistan",
-                      "date":  "2026-07-10",
-                      "url":  "https://s9pakistanapp.com/blog/s9-network-error-mobile-data-wifi-fix-2026-07-10/",
-                      "keyword":  "s9 game not working",
-                      "intent":  "s9-game-app-fix-guide"
-                  },
-                  {
-                      "title":  "S9 black screen and permission fix Pakistan",
-                      "date":  "2026-07-07",
-                      "url":  "https://s9pakistanapp.com/blog/s9-black-screen-permission-fix-2026-07-07/",
-                      "keyword":  "s9 game not working",
-                      "intent":  "s9-game-app-fix-guide"
-                  },
-                  {
-                      "title":  "S9 black screen and permission fix Pakistan",
-                      "date":  "2026-07-05",
-                      "url":  "https://s9pakistanapp.com/blog/s9-black-screen-permission-fix-2026-07-05/",
-                      "keyword":  "s9 game not working",
-                      "intent":  "s9-game-app-fix-guide"
-                  },
-                  {
-                      "title":  "S9 app not working indexing checklist Pakistan",
-                      "date":  "2026-07-04",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-not-working-indexing-check-2026-07-04/",
-                      "keyword":  "s9 game not working",
-                      "intent":  "s9-game-app-fix-guide"
-                  },
-                  {
-                      "title":  "S9 game app not working Pakistan fixes",
-                      "date":  "2026-07-03",
-                      "url":  "https://s9pakistanapp.com/blog/s9-game-app-fix-guide-2026-07-03/",
-                      "keyword":  "s9 game not working",
-                      "intent":  "s9-game-app-fix-guide"
-                  },
-                  {
-                      "title":  "S9 app crash low storage Pakistan fix path",
-                      "date":  "2026-07-03",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-crash-low-storage-2026-07-03/",
-                      "keyword":  "s9 app crash low storage Pakistan",
-                      "intent":  "app-crash-low-storage"
-                  },
-                  {
-                      "title":  "S9 app crash low storage Pakistan fix path",
-                      "date":  "2026-07-02",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-crash-low-storage-2026-07-02/",
-                      "keyword":  "s9 app crash low storage Pakistan",
-                      "intent":  "app-crash-low-storage"
-                  },
-                  {
-                      "title":  "S9 app black screen Pakistan diagnostic path",
-                      "date":  "2026-07-01",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-black-screen-pakistan-2026-07-01/",
-                      "keyword":  "s9 app black screen Pakistan",
-                      "intent":  "app-black-screen"
-                  },
-                  {
-                      "title":  "S9 network error on mobile data",
-                      "date":  "2026-06-30",
-                      "url":  "https://s9pakistanapp.com/blog/s9-network-error-mobile-data-2026-06-30/",
-                      "keyword":  "s9 network error mobile data Pakistan",
-                      "intent":  "network-error-mobile-data"
-                  },
-                  {
-                      "title":  "S9 app black screen Android fix path",
-                      "date":  "2026-06-29",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-black-screen-android-2026-06-29/",
-                      "keyword":  "s9 app black screen Android Pakistan",
-                      "intent":  "black-screen"
-                  },
-                  {
-                      "title":  "S9 app not working competitor gap response",
-                      "date":  "2026-06-28",
-                      "url":  "https://s9pakistanapp.com/blog/app-not-working-competitor-gap-2026-06-28/",
-                      "keyword":  "s9 app not working Pakistan",
-                      "intent":  "app-fix"
-                  },
-                  {
-                      "title":  "S9 app black screen Android: cache and update checklist",
-                      "date":  "2026-06-26",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-black-screen-android-2026-06-26/",
-                      "keyword":  "s9 app black screen Android",
-                      "intent":  "black screen fix",
-                      "batch":  "2026-06-26"
-                  },
-                  {
-                      "title":  "S9 app permission denied: Android setting checklist",
-                      "date":  "2026-06-25",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-permission-denied-2026-06-25/",
-                      "keyword":  "s9 app permission denied",
-                      "intent":  "android permission issue",
-                      "batch":  "2026-06-25"
-                  },
-                  {
-                      "title":  "S9 app crash on low storage: Android fix order",
-                      "date":  "2026-06-24",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-crash-low-storage-2026-06-24/",
-                      "keyword":  "s9 app crash low storage",
-                      "intent":  "app crash storage",
-                      "batch":  "2026-06-24"
-                  },
-                  {
-                      "title":  "S9 app update stuck: Android troubleshooting order",
-                      "date":  "2026-06-23",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-update-stuck-2026-06-23-b/",
-                      "keyword":  "s9 app update stuck",
-                      "intent":  "app update issue",
-                      "batch":  "2026-06-23-b"
-                  },
-                  {
-                      "title":  "S9 network error after login: Android diagnosis",
-                      "date":  "2026-06-23",
-                      "url":  "https://s9pakistanapp.com/blog/s9-network-error-after-login-2026-06-23/",
-                      "keyword":  "s9 network error after login",
-                      "intent":  "network fix"
-                  },
-                  {
-                      "title":  "S9 app stuck loading in Pakistan: Android fix order",
-                      "date":  "2026-06-22",
-                      "url":  "https://s9pakistanapp.com/blog/s9-app-stuck-loading-pakistan-2026-06-22/",
-                      "keyword":  "s9 app stuck loading",
-                      "intent":  "app fix"
-                  }
-              ]
+{
+  "site": "S9 Fix Diagnostics",
+  "date": "2026-07-19",
+  "items": [
+    {
+      "title": "crash network install runbook",
+      "date": "2026-07-19",
+      "url": "https://s9pakistanapp.com/updates/week-16-crash-network-install-runbook/",
+      "search_intent": "Weekly freshness and troubleshooting update"
+    },
+    {
+      "title": "Crash and network fix guide | S9 Fix Diagnostics",
+      "date": "2026-07-12",
+      "url": "https://s9pakistanapp.com/updates/week-14-crash-network-install-runbook/",
+      "keyword": "s9 game not working crash network",
+      "search_intent": "Weekly freshness and troubleshooting update"
+    },
+    {
+      "title": "S9 network error mobile data and WiFi fix Pakistan",
+      "date": "2026-07-11",
+      "url": "https://s9pakistanapp.com/blog/s9-network-error-mobile-data-wifi-fix-2026-07-11/",
+      "keyword": "s9 game not working",
+      "intent": "s9-game-app-fix-guide"
+    },
+    {
+      "title": "S9 network error mobile data and WiFi fix Pakistan",
+      "date": "2026-07-10",
+      "url": "https://s9pakistanapp.com/blog/s9-network-error-mobile-data-wifi-fix-2026-07-10/",
+      "keyword": "s9 game not working",
+      "intent": "s9-game-app-fix-guide"
+    },
+    {
+      "title": "S9 black screen and permission fix Pakistan",
+      "date": "2026-07-07",
+      "url": "https://s9pakistanapp.com/blog/s9-black-screen-permission-fix-2026-07-07/",
+      "keyword": "s9 game not working",
+      "intent": "s9-game-app-fix-guide"
+    },
+    {
+      "title": "S9 black screen and permission fix Pakistan",
+      "date": "2026-07-05",
+      "url": "https://s9pakistanapp.com/blog/s9-black-screen-permission-fix-2026-07-05/",
+      "keyword": "s9 game not working",
+      "intent": "s9-game-app-fix-guide"
+    },
+    {
+      "title": "S9 app not working indexing checklist Pakistan",
+      "date": "2026-07-04",
+      "url": "https://s9pakistanapp.com/blog/s9-app-not-working-indexing-check-2026-07-04/",
+      "keyword": "s9 game not working",
+      "intent": "s9-game-app-fix-guide"
+    },
+    {
+      "title": "S9 game app not working Pakistan fixes",
+      "date": "2026-07-03",
+      "url": "https://s9pakistanapp.com/blog/s9-game-app-fix-guide-2026-07-03/",
+      "keyword": "s9 game not working",
+      "intent": "s9-game-app-fix-guide"
+    },
+    {
+      "title": "S9 app crash low storage Pakistan fix path",
+      "date": "2026-07-03",
+      "url": "https://s9pakistanapp.com/blog/s9-app-crash-low-storage-2026-07-03/",
+      "keyword": "s9 app crash low storage Pakistan",
+      "intent": "app-crash-low-storage"
+    },
+    {
+      "title": "S9 app crash low storage Pakistan fix path",
+      "date": "2026-07-02",
+      "url": "https://s9pakistanapp.com/blog/s9-app-crash-low-storage-2026-07-02/",
+      "keyword": "s9 app crash low storage Pakistan",
+      "intent": "app-crash-low-storage"
+    },
+    {
+      "title": "S9 app black screen Pakistan diagnostic path",
+      "date": "2026-07-01",
+      "url": "https://s9pakistanapp.com/blog/s9-app-black-screen-pakistan-2026-07-01/",
+      "keyword": "s9 app black screen Pakistan",
+      "intent": "app-black-screen"
+    },
+    {
+      "title": "S9 network error on mobile data",
+      "date": "2026-06-30",
+      "url": "https://s9pakistanapp.com/blog/s9-network-error-mobile-data-2026-06-30/",
+      "keyword": "s9 network error mobile data Pakistan",
+      "intent": "network-error-mobile-data"
+    },
+    {
+      "title": "S9 app black screen Android fix path",
+      "date": "2026-06-29",
+      "url": "https://s9pakistanapp.com/blog/s9-app-black-screen-android-2026-06-29/",
+      "keyword": "s9 app black screen Android Pakistan",
+      "intent": "black-screen"
+    },
+    {
+      "title": "S9 app not working competitor gap response",
+      "date": "2026-06-28",
+      "url": "https://s9pakistanapp.com/blog/app-not-working-competitor-gap-2026-06-28/",
+      "keyword": "s9 app not working Pakistan",
+      "intent": "app-fix"
+    },
+    {
+      "title": "S9 app black screen Android: cache and update checklist",
+      "date": "2026-06-26",
+      "url": "https://s9pakistanapp.com/blog/s9-app-black-screen-android-2026-06-26/",
+      "keyword": "s9 app black screen Android",
+      "intent": "black screen fix",
+      "batch": "2026-06-26"
+    },
+    {
+      "title": "S9 app permission denied: Android setting checklist",
+      "date": "2026-06-25",
+      "url": "https://s9pakistanapp.com/blog/s9-app-permission-denied-2026-06-25/",
+      "keyword": "s9 app permission denied",
+      "intent": "android permission issue",
+      "batch": "2026-06-25"
+    },
+    {
+      "title": "S9 app crash on low storage: Android fix order",
+      "date": "2026-06-24",
+      "url": "https://s9pakistanapp.com/blog/s9-app-crash-low-storage-2026-06-24/",
+      "keyword": "s9 app crash low storage",
+      "intent": "app crash storage",
+      "batch": "2026-06-24"
+    },
+    {
+      "title": "S9 app update stuck: Android troubleshooting order",
+      "date": "2026-06-23",
+      "url": "https://s9pakistanapp.com/blog/s9-app-update-stuck-2026-06-23-b/",
+      "keyword": "s9 app update stuck",
+      "intent": "app update issue",
+      "batch": "2026-06-23-b"
+    },
+    {
+      "title": "S9 network error after login: Android diagnosis",
+      "date": "2026-06-23",
+      "url": "https://s9pakistanapp.com/blog/s9-network-error-after-login-2026-06-23/",
+      "keyword": "s9 network error after login",
+      "intent": "network fix"
+    },
+    {
+      "title": "S9 app stuck loading in Pakistan: Android fix order",
+      "date": "2026-06-22",
+      "url": "https://s9pakistanapp.com/blog/s9-app-stuck-loading-pakistan-2026-06-22/",
+      "keyword": "s9 app stuck loading",
+      "intent": "app fix"
+    }
+  ]
 }
